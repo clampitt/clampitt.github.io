@@ -54,7 +54,7 @@ Voids have expelled most of their gas and other matter, feeding the network of g
 While voids take up most of the space of the known universe, they are by nature very dark and difficult to study.
 Gravitational lensing of distant background galaxies provides a way around this difficulty, since it doesn't rely on finding galaxies within the voids themselves.
 In contrast to galaxy lensing (pictured in the previous section), void lensing imprints a pincushion pattern on background galaxies.
-I wrote a void finding algorithm and then measured this pincushion pattern around about 10,000 voids in the Sloan Digital Sky Survey (SDSS).
+I wrote a void finding algorithm and then measured this pincushion pattern around about 10,000 voids in the [Sloan Digital Sky Survey](http://www.sdss.org) (SDSS).
 The resulting void map is shown in the above diagram for a single patch on the sky: by definition the voids (green circles) extend to the edges of the galaxies (black points).
 My lensing measurement of these voids provided the first direct constraints on void shapes (pictured below):  they are flat and empty at the center with a sharp rise back to the universe's average mass density at the void edge.
 
@@ -86,7 +86,7 @@ This extra force is a necessary consequence of the theory being designed to both
 One example of such a fifth force is shown in the second equation above.
 The new force depends on the ambient density: the attraction between two objects is much stronger if they are located in the middle of empty space rather than at the center of a galaxy cluster.
 
-Thus this fifth force is only be activated in the smallest stars and galaxies, nearly invisible gas clouds, and voids.
+Thus this fifth force is only activated in the smallest stars and galaxies, nearly invisible gas clouds, and voids.
 Since we need light in order to do astronomy, it is difficult to obtain the detailed measurements of these objects needed to distinguish between GR and MG theories.
 I've worked on modeling the effects of MG on small, dim galaxies, and have described simple tests which use weak lensing of background galaxies to minimize the need for high signal-to-noise data inside the galaxy.
 In addition I've modeled the effects of MG on the number of voids in the universe: since this test only requires counting the number of voids, it also avoids the need for data within the void itself.
@@ -102,8 +102,8 @@ Predictions for these tests are described in more detail in the following papers
 
 <img width=300 style="float:right" src="images/jarvis_des_map.pdf" />
 
-For the measurements above I mostly relied on archival Sloan Digital Sky Survey (SDSS) data, taken from 2000 -- 2008 at Apache Point Observatory in New Mexico.
-That data set is enormous, comprising tens of millions of galaxies, but the ongoing Dark Energy Survey (DES) at Cerro Tololo Inter-American Observatory in Chile will surpass it.
+For the measurements above I mostly relied on archival [Sloan Digital Sky Survey](http://www.sdss.org) (SDSS) data, taken from 2000 -- 2008 at Apache Point Observatory in New Mexico.
+That data set is enormous, comprising tens of millions of galaxies, but the ongoing [Dark Energy Survey](http://www.darkenergysurvey.org) (DES) at Cerro Tololo Inter-American Observatory in Chile will surpass it.
 DES is a five year survey that will cover a quarter of the southern sky to great depth, allowing measurements of much more distant galaxies than SDSS.
 
 More distant galaxies are affected more strongly by gravitational lensing.
@@ -123,8 +123,8 @@ Here are some that I was involved in:\
 
 <img style="float:right" width=300 src="images/cern.jpg" />
 
-As an undergraduate I worked mostly on high-energy physics experiments, primarily the Compact Muon Solenoid (CMS) detector at CERN.
-The expensive hardware of the detector is positioned very close to the destructive energy of the Large Hadron Collider (LHC) proton beam.
+As an undergraduate I worked mostly on high-energy physics experiments, primarily the [Compact Muon Solenoid](http://cms.web.cern.ch) (CMS) detector at [CERN](http://home.cern).
+The expensive hardware of the detector is positioned very close to the destructive energy of the [Large Hadron Collider](http://home.cern/topics/large-hadron-collider) (LHC) proton beam.
 Careful testing is a must to prevent damage.
 I was involved in software development for the Beam Conditions and Radiation Monitoring System as well as Quality Control of the Forward Pixel detector hardware.
 The highlight was a summer working onsite at CERN, on the border of France and Switzerland.
