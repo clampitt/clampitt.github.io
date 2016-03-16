@@ -13,13 +13,17 @@
 
 ### First or second author papers
 
+"Joint Measurement of Lensing-Galaxy Correlations Using SPT and DES SV Data"
+[pdf](http://arxiv.org/pdf/1602.07384.pdf)\
+Baxter, **Clampitt**, Giannantonio, et al. -- preprint (2016)
+
 "Lensing Measurements of the Ellipticity of LRG Dark Matter Halos"
 [pdf](http://arxiv.org/pdf/1506.03536.pdf)\
-**Clampitt**, Jain -- MNRAS accepted
+**Clampitt**, Jain -- MNRAS 457, 4135 (2016)
 
 “Detection of Stacked Filament Lensing Between SDSS Luminous Red Galaxies”
 [pdf](http://arxiv.org/pdf/1402.3302.pdf)\
-**Clampitt**, Miyatake, Jain, Takada -- MNRAS accepted
+**Clampitt**, Miyatake, Jain, Takada -- MNRAS 457, 2391 (2016)
 
 "Clustering and Bias Measurements of SDSS Voids"
 [pdf](http://arxiv.org/pdf/1507.08031.pdf)\
@@ -46,11 +50,11 @@ Lam, **Clampitt**, Cai, Li -- MNRAS 450, 3319 (2015)
 
 "Cosmology from Cosmic Shear with DES Science Verification Data"
 [pdf](http://arxiv.org/pdf/1507.05552.pdf)\
-The Dark Energy Survey Collaboration, et al.
+The Dark Energy Survey Collaboration, et al. -- preprint (2015)
 
 "Joint Analysis of Galaxy-Galaxy Lensing and Galaxy Clustering: Methodology and Forecasts for DES"
 [pdf](http://arxiv.org/pdf/1507.05353.pdf)\
-Park et al.
+Park et al. -- preprint (2015)
 
 “Mass and galaxy distributions of four massive galaxy clusters from Dark Energy Survey Science Verification data”
 [pdf](http://arxiv.org/pdf/1405.4285.pdf)\
