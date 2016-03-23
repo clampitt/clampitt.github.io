@@ -13,6 +13,10 @@
 
 ### First or second author papers
 
+"Galaxy-Galaxy Lensing in the DES Science Verification Data"
+[pdf](http://arxiv.org/pdf/1603.05790.pdf)\
+**Clampitt**, Sanchez, Kwan, et al. -- preprint (2016)
+
 "Joint Measurement of Lensing-Galaxy Correlations Using SPT and DES SV Data"
 [pdf](http://arxiv.org/pdf/1602.07384.pdf)\
 Baxter, **Clampitt**, Giannantonio, et al. -- preprint (2016)
