@@ -20,7 +20,7 @@
 
   Dept. of Physics and Astronomy\
   University of Pennsylvania\
-  <clampitt@sas.upenn.edu>\
+  <joseph.clampitt@gmail.com>\
   (215) 898-7942
 
   </center>
