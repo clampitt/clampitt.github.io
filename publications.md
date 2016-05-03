@@ -13,6 +13,10 @@
 
 ### First or second author papers
 
+"Tidal stripping as a test of satellite quenching in redMaPPer clusters"
+[pdf](https://arxiv.org/pdf/1604.08611.pdf)\
+Fang, **Clampitt**, Dalal, Jain, Rozo, Moustakas, Rykoff -- preprint (2016)
+
 "Galaxy-Galaxy Lensing in the DES Science Verification Data"
 [pdf](http://arxiv.org/pdf/1603.05790.pdf)\
 **Clampitt**, Sanchez, Kwan, et al. -- preprint (2016)
@@ -51,6 +55,14 @@ Lam, **Clampitt**, Cai, Li -- MNRAS 450, 3319 (2015)
 
 
 ### Other papers
+
+"Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with Dark Energy Survey Science Verification data"
+[pdf](https://arxiv.org/pdf/1604.07871.pdf)\
+Kwan, Sanchez, **Clampitt**, et al. -- preprint (2016)
+
+"The DES Science Verification Weak Lensing Shear Catalogues"
+[pdf](https://arxiv.org/pdf/1507.05603.pdf)\
+Jarvis et al. -- MNRAS accepted (2016)
 
 "Cosmology from Cosmic Shear with DES Science Verification Data"
 [pdf](http://arxiv.org/pdf/1507.05552.pdf)\
