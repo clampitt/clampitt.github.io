@@ -138,11 +138,11 @@ Mar 2007
 2015 -- present
 :    Refereed for journals JCAP and MNRAS
 
-Aug 2014
-:    Public outreach on cosmic voids at COSI, Columbus, OH
-
 2013 -- 2016
 :    Coordinated Dark Energy Survey galaxy-galaxy lensing subgroup
+
+Aug 2014
+:    Public outreach on cosmic voids at COSI, Columbus, OH
 
 2012 -- 2013
 :    Zaccheus Daniel Foundation for Astronomical Science Fellowship
