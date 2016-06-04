@@ -53,6 +53,10 @@ Summer 2007
 
 ### Invited Talks and Sessions Coordinated
 
+May 2016
+:   Coordinated session at Dark Energy Survey SLAC meeting\
+    "Galaxy-galaxy Lensing Tests and Projects"
+
 Oct 2015
 :   Coordinated session at Dark Energy Survey Madrid meeting\
     "Galaxy-galaxy Lensing Projects in Year 1 Data"
@@ -134,7 +138,10 @@ Mar 2007
 2015 -- present
 :    Refereed for journals JCAP and MNRAS
 
-2013 -- present
+Aug 2014
+:    Public outreach on cosmic voids at COSI, Columbus, OH
+
+2013 -- 2016
 :    Coordinated Dark Energy Survey galaxy-galaxy lensing subgroup
 
 2012 -- 2013
