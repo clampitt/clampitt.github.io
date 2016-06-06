@@ -60,6 +60,10 @@ Halo scale predictions of symmetron modified gravity
 
 ### Other papers
 
+Observing dynamical friction in galaxy clusters
+[pdf](https://arxiv.org/pdf/1605.06688.pdf)\
+Adhikari, Dalal, **Clampitt** -- preprint (2016)
+
 Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with Dark Energy Survey Science Verification data
 [pdf](https://arxiv.org/pdf/1604.07871.pdf)\
 Kwan, Sanchez, **Clampitt**, et al. -- preprint (2016)

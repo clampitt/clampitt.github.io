@@ -9,7 +9,7 @@
 
 ## Curriculum Vitae
 
-CV as [pdf](cvClampitt_feb2016.pdf)
+CV as [pdf](cvClampitt.pdf)
 
 ### Education
 
@@ -155,6 +155,10 @@ Aug 2014
 
 
 ### Teaching Experience
+2013 -- present
+:	Mentored PhD and undergraduate physics students including\
+	Yuedong Fang, Charles Davis, and Andrew Neil
+
 2013
 :	Guest lecturer, University of Pennsylvania\
 	Introduction to Astrophysics II
@@ -166,6 +170,5 @@ Aug 2014
 2006
 :	Undergraduate Teaching Assistant, Purdue University\
 	Matter and Interactions: Mechanics
-
 
 </div>
