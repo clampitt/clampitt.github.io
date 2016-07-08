@@ -3,7 +3,8 @@
 [Home](index.html) / 
 [Research](research.html) / 
 **Curriculum Vitae** /
-[Publications](publications.html)
+[Publications](publications.html) /
+[Blog](blog.html)
 
 ***
 
@@ -136,7 +137,7 @@ Mar 2007
 
 ### Service and Awards
 2015 -- present
-:    Refereed for journals ApJ, MNRAS, and JCAP
+:    Referee for journals ApJ, MNRAS, and JCAP
 
 2013 -- 2016
 :    Coordinated Dark Energy Survey galaxy-galaxy lensing subgroup

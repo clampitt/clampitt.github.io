@@ -3,7 +3,8 @@
 [Home](index.html) /
 **Research** / 
 [Curriculum Vitae](cvitae.html) / 
-[Publications](publications.html)
+[Publications](publications.html) /
+[Blog](blog.html)
 
 ***
 
@@ -44,7 +45,7 @@ In addition to measuring lens galaxy properties in this way, I've used variation
 
 ### Cosmic Voids
 
-<img style="float:right" width=320 src="images/void_diagram.pdf" />
+<img style="float:right" width=320 src="images/void_diagram.jpg" />
 
 Galaxy clusters are the most massive objects in the universe, with a typical one weighing 100 times more than our own galaxy, the Milky Way.
 The typical radii of such clusters are easily five times larger than the Milky Way's, but even these giants are dwarfed by cosmic voids.
@@ -100,7 +101,7 @@ Predictions for these tests are described in more detail in the following papers
 
 ### Dark Energy Survey Telescope
 
-<img width=300 style="float:right" src="images/jarvis_des_map.pdf" />
+<img width=300 style="float:right" src="images/jarvis_des_map.jpg" />
 
 For the measurements above I mostly relied on archival [Sloan Digital Sky Survey](http://www.sdss.org) (SDSS) data, taken from 2000 -- 2008 at Apache Point Observatory in New Mexico.
 That data set is enormous, comprising tens of millions of galaxies, but the ongoing [Dark Energy Survey](http://www.darkenergysurvey.org) (DES) at Cerro Tololo Inter-American Observatory in Chile will surpass it.

@@ -3,7 +3,8 @@
 [Home](index.html) /
 [Research](research.html) /
 [Curriculum Vitae](cvitae.html) /
-**Publications**
+**Publications** /
+[Blog](blog.html)
 
 ***
 
