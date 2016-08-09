@@ -28,7 +28,7 @@
   </div>
   
   <div class="six columns">
-  <img width=190 src="images/joseph2.jpg"/>
+  <img width=255 src="images/joseph3.jpg"/>
   </div>
 </div>
 
