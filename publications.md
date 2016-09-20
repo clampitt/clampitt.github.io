@@ -18,17 +18,17 @@ Cosmic Voids and Void Lensing in the DES Science Verification Data
 [pdf](https://arxiv.org/pdf/1605.03982.pdf)\
 Sanchez, **Clampitt**, Kovacs, et al. -- preprint (2016)
 
-Tidal stripping as a test of satellite quenching in redMaPPer clusters
-[pdf](https://arxiv.org/pdf/1604.08611.pdf)\
-Fang, **Clampitt**, Dalal, Jain, Rozo, Moustakas, Rykoff -- preprint (2016)
-
 Galaxy-Galaxy Lensing in the DES Science Verification Data
 [pdf](http://arxiv.org/pdf/1603.05790.pdf)\
 **Clampitt**, Sanchez, Kwan, et al. -- preprint (2016)
 
+Tidal stripping as a test of satellite quenching in redMaPPer clusters
+[pdf](https://arxiv.org/pdf/1604.08611.pdf)\
+Fang, **Clampitt**, Dalal, Jain, Rozo, Moustakas, Rykoff -- MNRAS accepted (2016)
+
 Joint Measurement of Lensing-Galaxy Correlations Using SPT and DES SV Data
 [pdf](http://arxiv.org/pdf/1602.07384.pdf)\
-Baxter, **Clampitt**, Giannantonio, et al. -- preprint (2016)
+Baxter, **Clampitt**, Giannantonio, et al. -- MNRAS 461, 4099 (2016)
 
 Lensing Measurements of the Ellipticity of LRG Dark Matter Halos
 [pdf](http://arxiv.org/pdf/1506.03536.pdf)\
@@ -61,21 +61,21 @@ Halo scale predictions of symmetron modified gravity
 
 ### Other papers
 
-Observing dynamical friction in galaxy clusters
-[pdf](https://arxiv.org/pdf/1605.06688.pdf)\
-Adhikari, Dalal, **Clampitt** -- preprint (2016)
-
 Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with Dark Energy Survey Science Verification data
 [pdf](https://arxiv.org/pdf/1604.07871.pdf)\
 Kwan, Sanchez, **Clampitt**, et al. -- preprint (2016)
 
+Observing dynamical friction in galaxy clusters
+[pdf](https://arxiv.org/pdf/1605.06688.pdf)\
+Adhikari, Dalal, **Clampitt** -- JCAP 07, 022 (2016)
+
 The DES Science Verification Weak Lensing Shear Catalogues
 [pdf](https://arxiv.org/pdf/1507.05603.pdf)\
-Jarvis et al. -- MNRAS accepted (2016)
+Jarvis et al. -- MNRAS 460, 2245 (2016)
 
 Cosmology from Cosmic Shear with DES Science Verification Data
 [pdf](http://arxiv.org/pdf/1507.05552.pdf)\
-The Dark Energy Survey Collaboration, et al. -- preprint (2015)
+The Dark Energy Survey Collaboration, et al. -- PhRvD 94, 2001 (2016)
 
 Joint Analysis of Galaxy-Galaxy Lensing and Galaxy Clustering: Methodology and Forecasts for DES
 [pdf](http://arxiv.org/pdf/1507.05353.pdf)\

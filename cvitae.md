@@ -28,7 +28,6 @@ CV as [pdf](cvClampitt.pdf)
 
 2014 -- present
 :	Postdoctoral Researcher  
-	Advisor: Bhuvnesh Jain  
 	University of Pennsylvania  
 
 2010 -- 2014
@@ -105,6 +104,11 @@ Dec 2012
 
 
 ### Other Talks and Posters
+
+July 2016
+:    Diving into the Dark: Briding Cosmology Theory and Observation\
+     Conference at Cairns, Australia\
+     "Lensing Measurements of Halo Ellipticity and Voids in SDSS"
 
 July 2013
 :    Durham University: Ripples in the Cosmos\
