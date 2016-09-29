@@ -61,6 +61,10 @@ Halo scale predictions of symmetron modified gravity
 
 ### Other papers
 
+Galaxy bias from galaxy-galaxy lensing in the DES Science Verification Data
+[pdf](http://arxiv.org/pdf/1609.08167v1.pdf)\
+Prat et al. -- preprint (2016)
+
 Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with Dark Energy Survey Science Verification data
 [pdf](https://arxiv.org/pdf/1604.07871.pdf)\
 Kwan, Sanchez, **Clampitt**, et al. -- preprint (2016)
