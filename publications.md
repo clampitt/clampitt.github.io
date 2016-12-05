@@ -17,7 +17,7 @@
 **19**
 : Galaxy-Galaxy Lensing in the DES Science Verification Data
   [pdf](http://arxiv.org/pdf/1603.05790.pdf)\
-  **Clampitt**, Sanchez, Kwan, et al. -- preprint (2016)
+  **Clampitt**, Sanchez, Kwan, et al. -- MNRAS accepted (2016)
 
 **18**
 : Cosmic Voids and Void Lensing in the DES Science Verification Data
