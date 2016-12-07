@@ -151,6 +151,17 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
+/* Larger than phablet */
+@media (max-width: 549px) {
+  body { font-size: 3.0em; }
+  h1 { font-size: 10.0rem; }
+  h2 { font-size: 8.2rem; }
+  h3 { font-size: 7.2rem; }
+  h4 { font-size: 6.0rem; }
+  h5 { font-size: 4.8rem; }
+  h6 { font-size: 3.0rem; }
+}
+
 p {
   margin-top: 0; }
 
@@ -429,6 +440,13 @@ near the relevant code. For example, if you wanted to change the styles for butt
 on small devices, paste the mobile query code up in the buttons section and style it
 there.
 */
+
+
+@media only screen and (max-width: 1268px) {}
+
+@media only screen and (max-width: 1023px) {}
+
+@media only screen and (max-width: 834px) {}
 
 
 /* Larger than mobile */
