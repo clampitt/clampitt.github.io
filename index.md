@@ -32,7 +32,7 @@
   </div>
 </div>
 
-I am a postdoctoral researcher in Cosmology and Astrophysics working with Prof. Bhuvnesh Jain at the University of Pennsylvania.
+I'm a postdoctoral researcher in Cosmology and Astrophysics working with Prof. Bhuvnesh Jain at the University of Pennsylvania.
 My research focuses on statistical measurements of galaxy, void, and filament properties using gravitational lensing, with both Sloan Digital Sky Survey (SDSS) and Dark Energy Survey (DES) data.
 I've also written my own void finding algorithm and measured void abundances and clustering in SDSS and DES.
 In addition to lensing data analysis, I have proposed several tests to distinguish between General Relativity and alternative gravity models.
