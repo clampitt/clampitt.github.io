@@ -32,12 +32,6 @@
   </div>
 </div>
 
-# h1
-## h2
-### h3
-#### h4
-
-Body text.
 
 I am a postdoctoral researcher in Cosmology and Astrophysics working with Prof. Bhuvnesh Jain at the University of Pennsylvania.
 My research focuses on statistical measurements of galaxy, void, and filament properties using gravitational lensing, with both Sloan Digital Sky Survey (SDSS) and Dark Energy Survey (DES) data.
