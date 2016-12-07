@@ -141,7 +141,7 @@ h5 { font-size: 2.4rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* smartphones, iPhone, portrait 480x320 phones */
-@media (min-width:320px)  {
+@media (min-width:320px) and (max-width:480px) {
   body { font-size: 26.0rem; }
   h1 { font-size: 20.0rem; }
   h2 { font-size: 16.4rem; }
@@ -153,7 +153,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 
 /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
-@media (min-width:481px)  {
+@media (min-width:481px) and (max-width:640px) {
   body { font-size: 6.0rem; }
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.6rem; }
@@ -164,7 +164,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 phones */
-@media (min-width:641px)  { 
+@media (min-width:641px) and (max-width:960px) { 
   body { font-size: 4.0rem; }
   h1 { font-size: 4.0rem; }
   h2 { font-size: 3.6rem; }
@@ -175,7 +175,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 /* tablet, landscape iPad, lo-res laptops ands desktops */
-@media (min-width:961px)  {
+@media (min-width:961px) and (max-width:1024px) {
   body { font-size: 100%;
     color: #1EAEDB; }
   h1 { font-size: 4.0rem; }
@@ -188,7 +188,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 /* big landscape tablets, laptops, and desktops */
-@media (min-width:1025px) { 
+@media (min-width:1025px) and (max-width:1280px) { 
   body { font-size: 4.0rem; }
   h1 { font-size: 4.0rem; }
   h2 { font-size: 3.6rem; }
