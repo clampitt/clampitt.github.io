@@ -141,6 +141,16 @@ h4 { font-size: 3.0rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 2.4rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
+/* Above font-size applies to widths above 800px */
+@media (max-width: 2000px) {
+  body { font-size: 1.5rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.6rem; }
+  h3 { font-size: 3.0rem; }
+  h4 { font-size: 2.4rem; }
+  h5 { font-size: 1.8rem; }
+  h6 { font-size: 1.5rem; }
+}
 
 /* Next one applies to widths between 700px and 800px */
 @media (max-width: 800px) {
