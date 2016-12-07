@@ -143,7 +143,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Above font-size applies to widths above 800px */
 @media (max-width: 2000px) {
-  body { font-size: 1.5rem; }
+  body { font-size: 6.0rem; }
   h1 { font-size: 4.0rem; }
   h2 { font-size: 3.6rem; }
   h3 { font-size: 3.0rem; }
