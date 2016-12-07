@@ -121,7 +121,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  font-size: 6.0rem; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.5rem; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -141,7 +141,9 @@ h4 { font-size: 3.0rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 2.4rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
-/* Larger than phablet */
+/* Above font-size applies to widths above 800px */
+
+/* Next one applies to widths between 700px and 800px */
 @media (max-width: 800px) {
   body { font-size: 1.5rem; }
   h1 { font-size: 4.0rem; }
@@ -152,7 +154,6 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
-/* Larger than phablet */
 @media (max-width: 700px) {
   body { font-size: 2.0rem; }
   h1 { font-size: 4.0rem; }
@@ -163,7 +164,6 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
-/* Larger than phablet */
 @media (max-width: 600px) {
   body { font-size: 3.0rem; }
   h1 { font-size: 4.0rem; }
@@ -174,18 +174,17 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
-/* Larger than phablet */
+/* My iphone fits here, max width smaller than 500px */
 @media (max-width: 500px) {
-  body { font-size: 4.0rem; }
-  h1 { font-size: 4.0rem; }
-  h2 { font-size: 3.6rem; }
-  h3 { font-size: 3.0rem; }
-  h4 { font-size: 2.4rem; }
-  h5 { font-size: 1.8rem; }
-  h6 { font-size: 1.5rem; }
+  body { font-size: 2.5rem; }
+  h1 { font-size: 5.0rem; }
+  h2 { font-size: 4.6rem; }
+  h3 { font-size: 4.0rem; }
+  h4 { font-size: 3.4rem; }
+  h5 { font-size: 2.8rem; }
+  h6 { font-size: 2.5rem; }
 }
 
-/* Larger than phablet */
 @media (max-width: 300px) {
   body { font-size: 5.0rem; }
   h1 { font-size: 20.0rem; }
