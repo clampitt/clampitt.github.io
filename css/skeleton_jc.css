@@ -141,49 +141,20 @@ h4 { font-size: 3.0rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 2.4rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
-/* Above font-size applies to widths above 800px */
-@media (max-width: 2000px) {
-  body { font-size: 6.0rem; }
-  h1 { font-size: 4.0rem; }
-  h2 { font-size: 3.6rem; }
-  h3 { font-size: 3.0rem; }
-  h4 { font-size: 2.4rem; }
-  h5 { font-size: 1.8rem; }
-  h6 { font-size: 1.5rem; }
+/* smartphones, iPhone, portrait 480x320 phones */
+@media (min-width:320px)  {
+  body { font-size: 5.0rem; }
+  h1 { font-size: 20.0rem; }
+  h2 { font-size: 16.4rem; }
+  h3 { font-size: 14.4rem; }
+  h4 { font-size: 12.0rem; }
+  h5 { font-size: 9.6rem; }
+  h6 { font-size: 6.0rem; }
 }
 
-/* Next one applies to widths between 700px and 800px */
-@media (max-width: 1000px) {
-  body { font-size: 4.0rem; }
-  h1 { font-size: 4.0rem; }
-  h2 { font-size: 3.6rem; }
-  h3 { font-size: 3.0rem; }
-  h4 { font-size: 2.4rem; }
-  h5 { font-size: 1.8rem; }
-  h6 { font-size: 1.5rem; }
-}
 
-@media (max-width: 700px) {
-  body { font-size: 3.0rem; }
-  h1 { font-size: 4.0rem; }
-  h2 { font-size: 3.6rem; }
-  h3 { font-size: 3.0rem; }
-  h4 { font-size: 2.4rem; }
-  h5 { font-size: 1.8rem; }
-  h6 { font-size: 1.5rem; }
-}
-
-@media (max-width: 600px) {
-  body { font-size: 3.0rem; }
-  h1 { font-size: 4.0rem; }
-  h2 { font-size: 3.6rem; }
-  h3 { font-size: 3.0rem; }
-  h4 { font-size: 2.4rem; }
-  h5 { font-size: 1.8rem; }
-  h6 { font-size: 1.5rem; }
-}
-
-@media (max-width: 500px) {
+/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+@media (min-width:481px)  {
   body { font-size: 4.0rem; }
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.6rem; }
@@ -193,14 +164,48 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 2.5rem; }
 }
 
-@media (max-width: 300px) {
-  body { font-size: 5.0rem; }
-  h1 { font-size: 20.0rem; }
-  h2 { font-size: 16.4rem; }
-  h3 { font-size: 14.4rem; }
-  h4 { font-size: 12.0rem; }
-  h5 { font-size: 9.6rem; }
-  h6 { font-size: 6.0rem; }
+/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 phones */
+@media (min-width:641px)  { 
+  body { font-size: 3.0rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.6rem; }
+  h3 { font-size: 3.0rem; }
+  h4 { font-size: 2.4rem; }
+  h5 { font-size: 1.8rem; }
+  h6 { font-size: 1.5rem; }
+}
+
+/* tablet, landscape iPad, lo-res laptops ands desktops */
+@media (min-width:961px)  {
+  body { font-size: 3.0rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.6rem; }
+  h3 { font-size: 3.0rem; }
+  h4 { font-size: 2.4rem; }
+  h5 { font-size: 1.8rem; }
+  h6 { font-size: 1.5rem; }
+}
+
+/* big landscape tablets, laptops, and desktops */
+@media (min-width:1025px) { 
+  body { font-size: 4.0rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.6rem; }
+  h3 { font-size: 3.0rem; }
+  h4 { font-size: 2.4rem; }
+  h5 { font-size: 1.8rem; }
+  h6 { font-size: 1.5rem; }
+}
+
+/* hi-res laptops and desktops */
+@media (min-width:1281px) { 
+  body { font-size: 6.0rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.6rem; }
+  h3 { font-size: 3.0rem; }
+  h4 { font-size: 2.4rem; }
+  h5 { font-size: 1.8rem; }
+  h6 { font-size: 1.5rem; }
 }
 
 
