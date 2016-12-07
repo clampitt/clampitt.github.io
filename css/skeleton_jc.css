@@ -176,7 +176,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* My iphone fits here, max width smaller than 500px */
 @media (max-width: 500px) {
-  body { font-size: 3.0rem; }
+  body { font-size: 4.0rem; }
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.6rem; }
   h3 { font-size: 4.0rem; }
