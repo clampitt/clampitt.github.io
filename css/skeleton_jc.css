@@ -143,6 +143,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Larger than phablet */
 @media (max-width: 600px) {
+  body { font-size: 3.0em; }
   h1 { font-size: 4.0rem; }
   h2 { font-size: 3.6rem; }
   h3 { font-size: 3.0rem; }
