@@ -18,8 +18,6 @@ The particular galaxy sample used to define these voids is the DR7 Luminous Red 
 If you use this void catalog in a paper, please cite this paper:\
 Clampitt, J., & Jain, B. 2015, MNRAS, 454, 3357
 
-[Download Void Catalog](voids_clampitt-jain_SDSS_lrg-tracers.fit)
-
 <a href="voids_clampitt-jain_SDSS_lrg-tracers.fit" download>Download Void Catalog</a>
 
 ### Catalog contents
