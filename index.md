@@ -2,6 +2,7 @@
 
 **Home** /
 [Research](research.html) /
+[Catalogs](catalogs.html) /
 [Curriculum Vitae](cvitae.html) /
 [Publications](publications.html) /
 [Blog](blog.html)
