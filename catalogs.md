@@ -11,11 +11,11 @@
 
 ## SDSS Void Catalog
 
-The void catalog of [Clampitt and Jain (2015)](http://adsabs.harvard.edu/abs/2015MNRAS.454.3357C) uses a novel algorithm that looks for voids in 2D slices of the galaxy distribution.
+This void catalog uses a novel algorithm to look for voids in 2D slices of the galaxy distribution.
 Individual slices are then combined to create the final, 3D void catalog.
 This catalog enabled the first $5\sigma$ detections of void lensing ([Clampitt and Jain 2015](http://adsabs.harvard.edu/abs/2015MNRAS.454.3357C)) and void autocorrelations ([Clampitt, Jain, and Sanchez 2016](http://adsabs.harvard.edu/abs/2016MNRAS.456.4425C)).
-The particular galaxy sample used to define these voids is the DR7 Luminous Red Galaxy sample of [Kazin et al. (2010)](http://adsabs.harvard.edu/abs/2010ApJ...710.1444K).
-If you use this void catalog in a paper, please cite this paper:\
+The galaxy sample used to define these voids is the DR7 Luminous Red Galaxy sample of [Kazin et al. (2010)](http://adsabs.harvard.edu/abs/2010ApJ...710.1444K).
+If you use this void catalog, please cite this paper which describes the algorithm:\
 Clampitt, J., & Jain, B. 2015, MNRAS, 454, 3357
 
 <a href="voids_clampitt-jain_SDSS_lrg-tracers.fit" download>Download Void Catalog</a>
