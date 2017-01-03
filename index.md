@@ -40,7 +40,7 @@ I've also written my own void finding algorithm and measured void abundances and
 In addition to lensing data analysis, I have proposed several tests to distinguish between General Relativity and alternative gravity models.
 I describe my research in plain English [here](research.html).
 
-I recently started a blog with research tips for science PhD students, [sciencephdguide.com](http://sciencephdguide.com/phd-guide/)
+I recently started a blog with research tips for science PhD students, [sciencephdguide.com](http://sciencephdguide.com)
 
 This article in [Nautilus](http://nautil.us) featured my work on weak lensing of cosmic voids:\
 [What's 250 Million Light-Years Big, Almost Empty, and Full of Answers?](http://nautil.us/issue/16/nothingness/whats-250-million-light_years-big-almost-empty-and-full-of-answers)  
