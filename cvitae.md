@@ -27,7 +27,7 @@ CV as [pdf](cvClampitt.pdf)
 
 ### Research Experience
 
-2014 -- present
+2014 -- 2017
 :	Postdoctoral Researcher  
 	University of Pennsylvania  
 
@@ -163,7 +163,7 @@ Aug 2014
 ### Teaching Experience
 2013 -- present
 :	Mentored PhD and undergraduate physics students including\
-	Yuedong Fang, Charles Davis, and Andrew Neil
+	Yuedong Fang, Tae-Hyeon Shin, Charles Davis, and Andrew Neil
 
 2013
 :	Guest lecturer, University of Pennsylvania\
