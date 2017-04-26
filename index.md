@@ -14,13 +14,9 @@
   <div class="six columns">
   <center>
 
-<img width=230 src="images/logo_upenn.png" />
-
-
-
 ### Joseph Clampitt
 
-  Dept. of Physics and Astronomy\
+  PhD in Physics and Astronomy\
   University of Pennsylvania\
   <joseph.clampitt@gmail.com>
 
@@ -28,10 +24,11 @@
   </div>
   
   <div class="six columns">
-  <img width=255 src="images/joseph3.jpg"/>
+  <img width=200 src="images/joseph3.jpg"/>
   </div>
 </div>
 
+<br>
 
 I am a postdoctoral researcher in Cosmology and Astrophysics, formerly at the University of Pennsylvania.
 My research focuses on statistical measurements of galaxy, void, and filament properties using gravitational lensing, with both Sloan Digital Sky Survey (SDSS) and Dark Energy Survey (DES) data.
