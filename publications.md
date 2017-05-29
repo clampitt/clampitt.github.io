@@ -18,12 +18,12 @@
 **19**
 : Galaxy-Galaxy Lensing in the DES Science Verification Data
   [pdf](http://arxiv.org/pdf/1603.05790.pdf)\
-  **Clampitt**, Sanchez, Kwan, et al. -- MNRAS accepted (2016)
+  **Clampitt**, Sanchez, Kwan, et al. -- MNRAS 465, 4205 (2017)
 
 **18**
 : Cosmic Voids and Void Lensing in the DES Science Verification Data
 [pdf](https://arxiv.org/pdf/1605.03982.pdf)\
-Sanchez, **Clampitt**, Kovacs, et al. -- MNRAS accepted (2016)
+Sanchez, **Clampitt**, Kovacs, et al. -- MNRAS 465, 746 (2017)
 
 **17**
 : Tidal stripping as a test of satellite quenching in redMaPPer clusters
@@ -86,7 +86,7 @@ Prat et al. -- preprint (2016)
 **6**
 : Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with DES Science Verification data
 [pdf](https://arxiv.org/pdf/1604.07871.pdf)\
-Kwan, Sanchez, **Clampitt**, et al. -- MNRAS accepted (2016)
+Kwan, Sanchez, **Clampitt**, et al. -- MNRAS 464, 4045 (2017)
 
 **5**
 : Joint Analysis of Galaxy-Galaxy Lensing and Galaxy Clustering: Methodology and Forecasts for DES
