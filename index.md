@@ -35,10 +35,10 @@ In addition to lensing data analysis, I've proposed several tests to distinguish
 
 For non-technical descriptions of my research see the following articles:
 
-1. [Why Nothing Really Matters](http://discovermagazine.com/2016/dec/nothing-really-matters) in [Discover Magazine](http://discovermagazine.com).
-2. [What's 250 Million Light-Years Big, Almost Empty, and Full of Answers?](http://nautil.us/issue/16/nothingness/whats-250-million-light_years-big-almost-empty-and-full-of-answers) in [Nautilus](http://nautil.us). 
-3. [Cosmologists Weigh Cosmic Filaments and Voids](http://www.upenn.edu/pennnews/news/cosmologists-penn-weigh-cosmic-filaments-and-voids) in [Penn News](https://news.upenn.edu).
+1. <a href="http://discovermagazine.com/2016/dec/nothing-really-matters" target="_blank">Why Nothing Really Matters</a> in <a href="http://discovermagazine.com" target="_blank">Discover Magazine</a>.
+2. <a href="http://nautil.us/issue/16/nothingness/whats-250-million-light_years-big-almost-empty-and-full-of-answers" target="_blank">What's 250 Million Light-Years Big, Almost Empty, and Full of Answers?</a> in <a href="http://nautil.us" target="_blank">Nautilus</a>.
+3. <a href="http://www.upenn.edu/pennnews/news/cosmologists-penn-weigh-cosmic-filaments-and-voids" target="_blank">Cosmologists Weigh Cosmic Filaments and Voids</a> in <a href="https://news.upenn.edu" target="_blank">Penn News</a>.
 
-Finally, through my blog, [Science PhD Guide](http://sciencephdguide.com), I teach research skills to PhD students.
+Finally, through my blog, <a href="http://sciencephdguide.com" target="_blank">Science PhD Guide</a>, I teach research skills to PhD students.
 
 </div>
