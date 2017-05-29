@@ -9,7 +9,7 @@
 
 ***
 
-## SDSS Void Catalog
+# SDSS Void Catalog
 
 This void catalog uses a novel algorithm to look for voids in 2D slices of the galaxy distribution.
 Individual slices are then combined to create the final, 3D void catalog.
@@ -20,7 +20,7 @@ Clampitt, J., & Jain, B. 2015, MNRAS, 454, 3357
 
 <a href="voids_clampitt-jain_SDSS_lrg-tracers.fit" download>Download Void Catalog</a>
 
-#### Catalog contents
+### Catalog contents
 
 Column        Meaning                                                    Units
 -----------   -------------------------------------                      ----------
@@ -34,7 +34,7 @@ Column        Meaning                                                    Units
  dens_rand     random point density                                       (degrees)$^{-2}$
    f_vol       Volume overlap fraction with a larger neighbor              -
 
-#### Important cuts
+### Important cuts
 
 1. Require (dens_rand > 100) to remove voids near the survey edges.
 
@@ -48,7 +48,7 @@ In principle you could explore other cuts on dens_rand and void axis ratio.
 describes the motivations for these particular cuts.
 
 
-## Random catalogs
+### Random catalogs
 
 The random catalogs for different cuts on void size and volume overlap are available below.
 The void size cuts are based on an effective radius that combines transverse and line-of-sight void sizes:

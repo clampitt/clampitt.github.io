@@ -12,11 +12,11 @@
 <div class="container">
 <p><a href="index.html">Home</a> / <a href="research.html">Research</a> / <strong>Catalogs</strong> / <a href="cvitae.html">Curriculum Vitae</a> / <a href="publications.html">Publications</a> / <a href="blog.html">Blog</a></p>
 <hr />
-<h2 id="sdss-void-catalog">SDSS Void Catalog</h2>
+<h1 id="sdss-void-catalog">SDSS Void Catalog</h1>
 <p>This void catalog uses a novel algorithm to look for voids in 2D slices of the galaxy distribution. Individual slices are then combined to create the final, 3D void catalog. This catalog enabled the first <span class="math inline">5<em>σ</em></span> detections of void lensing (<a href="http://adsabs.harvard.edu/abs/2015MNRAS.454.3357C">Clampitt and Jain 2015</a>) and void autocorrelations (<a href="http://adsabs.harvard.edu/abs/2016MNRAS.456.4425C">Clampitt, Jain, and Sanchez 2016</a>). The galaxy sample used to define these voids is the DR7 Luminous Red Galaxy sample of <a href="http://adsabs.harvard.edu/abs/2010ApJ...710.1444K">Kazin et al. (2010)</a>. If you use this void catalog, please cite this paper which describes the algorithm:<br />
 Clampitt, J., &amp; Jain, B. 2015, MNRAS, 454, 3357</p>
 <p><a href="voids_clampitt-jain_SDSS_lrg-tracers.fit" download>Download Void Catalog</a></p>
-<h4 id="catalog-contents">Catalog contents</h4>
+<h3 id="catalog-contents">Catalog contents</h3>
 <table>
 <thead>
 <tr class="header">
@@ -73,13 +73,13 @@ Clampitt, J., &amp; Jain, B. 2015, MNRAS, 454, 3357</p>
 </tr>
 </tbody>
 </table>
-<h4 id="important-cuts">Important cuts</h4>
+<h3 id="important-cuts">Important cuts</h3>
 <ol style="list-style-type: decimal">
 <li><p>Require (dens_rand &gt; 100) to remove voids near the survey edges.</p></li>
 <li><p>In published papers I’ve always required the ratio of transverse to line-of-sight sizes to be within a factor of three: <em>(1/3 <span class="math inline">≤</span> R_v / los_size) AND (R_v / los_size <span class="math inline">≤</span> 3)</em>. This cut removes long, pencil-shaped objects and flat, pancaked-shaped objects. These objects are more likely due to Poisson noise in the galaxy sampling rather than actual cosmic voids.</p></li>
 </ol>
 <p>In principle you could explore other cuts on dens_rand and void axis ratio. <a href="http://adsabs.harvard.edu/abs/2015MNRAS.454.3357C">Clampitt and Jain (2015)</a> describes the motivations for these particular cuts.</p>
-<h2 id="random-catalogs">Random catalogs</h2>
+<h3 id="random-catalogs">Random catalogs</h3>
 <p>The random catalogs for different cuts on void size and volume overlap are available below. The void size cuts are based on an effective radius that combines transverse and line-of-sight void sizes:</p>
 <p><span class="math inline"><em>r</em><sub><em>e</em><em>f</em><em>f</em></sub></span> = (<span class="math inline"><em>R</em><sub><em>v</em></sub><sup>2</sup>×</span> los_size)<span class="math inline"><em></em><sup>1/3</sup></span></p>
 <p>Make the same cuts on the void catalog (for both <span class="math inline"><em>r</em><sub><em>e</em><em>f</em><em>f</em></sub></span> and <span class="math inline"><em>f</em><sub><em>v</em><em>o</em><em>l</em></sub></span>) and use the corresponding random catalog. Also be sure to do cuts 1 and 2 above (under “Important cuts”) since these have also been applied to the random catalogs.</p>

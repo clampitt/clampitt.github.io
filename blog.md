@@ -9,7 +9,7 @@
 
 ***
 
-## Science PhD Guide
+# Science PhD Guide
 
 I write a blog with research tips for science PhD students, [sciencephdguide.com](http://sciencephdguide.com).
 On this site I describe some of the research skills that were most helpful during my own PhD.

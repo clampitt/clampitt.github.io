@@ -9,7 +9,7 @@
 
 ***
 
-## Curriculum Vitae
+# Curriculum Vitae
 
 CV as [pdf](cvClampitt.pdf)
 

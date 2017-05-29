@@ -9,7 +9,7 @@
 
 ***
 
-## Research
+# Research
 
 This page has background information on the research areas in which I work.
 I've also given a brief description of my own work on each topic, and cross-referenced my papers at the bottom of each section.

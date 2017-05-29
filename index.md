@@ -9,27 +9,24 @@
 
 ***
 
-
 <div class="row">
-  <div class="six columns">
+  <div class="seven columns">
   <center>
 
-### Joseph Clampitt
-
-  PhD in Physics and Astronomy\
-  University of Pennsylvania\
-  <joseph.clampitt@gmail.com>
-
-  List of [technical publications](publications.html)
+## Joseph Clampitt
+  **PhD in Physics and Astronomy**\
+  **University of Pennsylvania**\
+  **<joseph.clampitt@gmail.com>**\
+  **List of [technical publications](publications.html)**\
   </center>
   </div>
   
-  <div class="six columns">
+  <div class="five columns">
   <img width=200 src="images/joseph3.jpg"/>
   </div>
 </div>
 
-<br>
+***
 
 I am a postdoctoral researcher in Cosmology and Astrophysics, formerly at the University of Pennsylvania.
 My research focuses on statistical measurements of galaxy, void, and filament properties using gravitational lensing, with both Sloan Digital Sky Survey (SDSS) and Dark Energy Survey (DES) data.
@@ -42,6 +39,6 @@ For non-technical descriptions of my research see the following articles:
 2. [What's 250 Million Light-Years Big, Almost Empty, and Full of Answers?](http://nautil.us/issue/16/nothingness/whats-250-million-light_years-big-almost-empty-and-full-of-answers) in [Nautilus](http://nautil.us). 
 3. [Cosmologists Weigh Cosmic Filaments and Voids](http://www.upenn.edu/pennnews/news/cosmologists-penn-weigh-cosmic-filaments-and-voids) in [Penn News](https://news.upenn.edu).
 
-Through my blog, [sciencephdguide.com](http://sciencephdguide.com), I teach research skills to PhD students.
+Finally, through my blog, [Science PhD Guide](http://sciencephdguide.com), I teach research skills to PhD students.
 
 </div>

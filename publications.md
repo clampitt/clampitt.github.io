@@ -9,7 +9,7 @@
 
 ***
 
-## Publications
+# Publications
 
 [All publications](http://arxiv.org/find/astro-ph/1/au:+Clampitt_J/0/1/0/all/0/1)
 
