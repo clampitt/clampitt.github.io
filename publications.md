@@ -15,6 +15,11 @@
 
 ### First or second author papers
 
+**20**
+: The ellipticity of galaxy cluster halos from satellite galaxies and weak lensing
+  [pdf](https://arxiv.org/pdf/1705.11167.pdf)
+  Shin, **Clampitt**, Jain, Bernstein, Neil, Rozo, Rykoff -- preprint (2017)
+
 **19**
 : Galaxy-Galaxy Lensing in the DES Science Verification Data
   [pdf](http://arxiv.org/pdf/1603.05790.pdf)\
