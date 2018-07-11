@@ -39,6 +39,6 @@ For non-technical descriptions of my research see the following articles:
 2. <a href="http://nautil.us/issue/16/nothingness/whats-250-million-light_years-big-almost-empty-and-full-of-answers" target="_blank">What's 250 Million Light-Years Big, Almost Empty, and Full of Answers?</a> in <a href="http://nautil.us" target="_blank">Nautilus</a>.
 3. <a href="http://www.upenn.edu/pennnews/news/cosmologists-penn-weigh-cosmic-filaments-and-voids" target="_blank">Cosmologists Weigh Cosmic Filaments and Voids</a> in <a href="https://news.upenn.edu" target="_blank">Penn News</a>.
 
-Finally, through my blog, <a href="http://sciencephdguide.com" target="_blank">Science PhD Guide</a>, I teach research skills to PhD students.
+Finally, through my blog, Science PhD Guide, I teach research skills to PhD students. (The blog is currently down as I work on switching hosting providers.)
 
 </div>
