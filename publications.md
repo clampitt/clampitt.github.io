@@ -84,14 +84,14 @@ Lam, **Clampitt**, Cai, Li -- MNRAS 450, 3319 (2015)
 ### Other papers
 
 **9**
-: Density split statistics: Cosmological constraints from counts and lensing in cells in DES Y1 and SDSS
-[pdf](https://arxiv.org/pdf/1710.05045)\
-Gruen et al. -- preprint (2017)
-
-**8**
 : Galaxy bias from galaxy-galaxy lensing in the DES Science Verification Data
 [pdf](http://arxiv.org/pdf/1609.08167.pdf)\
 Prat et al. -- MNRAS 473, 1667 (2018)
+
+**8**
+: Density split statistics: Cosmological constraints from counts and lensing in cells in DES Y1 and SDSS
+[pdf](https://arxiv.org/pdf/1710.05045)\
+Gruen et al. -- preprint (2017)
 
 **7**
 : Weak-lensing mass calibration of redMaPPer galaxy clusters in DES Science Verification data
