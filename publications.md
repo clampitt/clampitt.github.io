@@ -18,7 +18,7 @@
 **22**
 : Void Lensing as a Test of Gravity
   [pdf](https://arxiv.org/pdf/1803.07533)\
-  Baker, **Clampitt**, Jain, Trodden -- preprint (2018)
+  Baker, **Clampitt**, Jain, Trodden -- Phys. Rev. D 98, 023511 (2018)
 
 **21**
 : The ellipticity of galaxy cluster halos from satellite galaxies and weak lensing
@@ -84,14 +84,14 @@ Lam, **Clampitt**, Cai, Li -- MNRAS 450, 3319 (2015)
 ### Other papers
 
 **9**
+: Density split statistics: Cosmological constraints from counts and lensing in cells in DES Y1 and SDSS
+[pdf](https://arxiv.org/pdf/1710.05045)\
+Gruen et al. -- Phys. Rev. D 98, 023507 (2018)
+
+**8**
 : Galaxy bias from galaxy-galaxy lensing in the DES Science Verification Data
 [pdf](http://arxiv.org/pdf/1609.08167.pdf)\
 Prat et al. -- MNRAS 473, 1667 (2018)
-
-**8**
-: Density split statistics: Cosmological constraints from counts and lensing in cells in DES Y1 and SDSS
-[pdf](https://arxiv.org/pdf/1710.05045)\
-Gruen et al. -- preprint (2017)
 
 **7**
 : Weak-lensing mass calibration of redMaPPer galaxy clusters in DES Science Verification data

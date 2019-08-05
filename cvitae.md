@@ -141,7 +141,7 @@ Mar 2007
 
 
 ### Service and Awards
-2015 -- present
+2015 -- 2017
 :    Referee for journals ApJ, MNRAS, and JCAP
 
 2013 -- 2016
@@ -161,7 +161,7 @@ Aug 2014
 
 
 ### Teaching Experience
-2013 -- present
+2013 -- 2017
 :	Mentored PhD and undergraduate physics students including\
 	Yuedong Fang, Tae-Hyeon Shin, Charles Davis, and Andrew Neil
 
